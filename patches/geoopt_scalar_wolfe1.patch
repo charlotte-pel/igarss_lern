@@ -1,0 +1,12 @@
+--- a/geoopt/optim/rlinesearch.py	2025-05-06 16:03:14.662549298 +0200
++++ b/geoopt/optim/rlinesearch.py	2025-05-06 16:04:10.136279750 +0200
+@@ -4,7 +4,7 @@
+ This module uses the same syntax as a Torch optimizer
+ """
+ 
+-from scipy.optimize.linesearch import scalar_search_wolfe2, scalar_search_armijo
++from scipy.optimize._linesearch import scalar_search_wolfe2, scalar_search_armijo
+ import warnings
+ import torch
+ from .mixin import OptimMixin
+

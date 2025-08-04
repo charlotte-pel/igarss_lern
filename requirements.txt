@@ -1,0 +1,8 @@
+torch>=1.12
+scipy>=1.12
+pandas==2.2.3
+numpy>=1.24
+matplotlib>=3.10.0
+breizhcrops==0.0.4.1
+pyriemann==0.7
+geoopt==0.5.0
