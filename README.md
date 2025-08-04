@@ -5,8 +5,8 @@ This code is supporting by a conference paper that will  be published in 2025 IE
 @inproceedings{Zakir2025Leveraging,  
     Title = {Leveraging covariance representations with Riemannian ResNet for satellite image time series classification},  
     Author = {Zakir, Khizer and Pelletier, Charlotte and Chapel, Laetitia and Courty, Nicolas},  
-    Booktitle = {IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
-    Year = {2025}
+    Booktitle = {IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},  
+    Year = {2025},  
     note = {Accepted for an oral presentation}  
 }
 
